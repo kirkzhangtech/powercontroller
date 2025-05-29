@@ -1,7 +1,0 @@
-[2025-05-29 13:31:30,805]-[ERROR]:minEvictableIdleTimeMillis should be greater than 30000   
- [2025-05-29 13:31:30,805]-[ERROR]:minEvictableIdleTimeMillis should be greater than 30000   
-[2025-05-29 13:31:30,805]-[ERROR]:minEvictableIdleTimeMillis should be greater than 30000   
-[2025-05-29 13:31:31,439]-[INFO]:{dataSource-1} inited   
- [2025-05-29 13:31:31,439]-[INFO]:{dataSource-1} inited   
-[2025-05-29 13:31:31,536]-[INFO]:{dataSource-1} closed   
- [2025-05-29 13:31:31,536]-[INFO]:{dataSource-1} closed   
