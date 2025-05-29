@@ -8,8 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class powercontrollerApplication {
 
 	public static void main(String[] args) {
-
-
 		SpringApplication.run(powercontrollerApplication.class, args);
 	}
 
