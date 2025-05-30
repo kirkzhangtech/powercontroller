@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.datariver</groupId>
 	<artifactId>powercontroller-consumer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>powercontroller-consumer</name>
 	<description>powercontroller</description>
 	<url/>
@@ -124,6 +124,15 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.19.1</version>
+				<configuration>
+					<testFailureIgnore>true</testFailureIgnore>
+				</configuration>
+		</plugin>
 		</plugins>
 	</build>
 

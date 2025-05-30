@@ -1,9 +1,0 @@
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/exception/MangoException.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/page/PageRequest.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/page/Param.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/http/HttpResult.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/http/HttpStatus.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/page/PageResult.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/App.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/service/CurdService.java
-/home/kirkzhang/github_workspace/powercontroller/powercontroller-core/src/main/java/com/datariver/page/MybatisPageHelper.java

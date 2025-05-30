@@ -10,7 +10,7 @@
   <groupId>com.datariver</groupId>
   <artifactId>powercontroller-consul</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>powercontroller-consul</name>
   <url>http://maven.apache.org</url>
   
