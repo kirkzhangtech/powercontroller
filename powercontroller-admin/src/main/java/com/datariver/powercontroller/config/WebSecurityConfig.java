@@ -15,6 +15,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 import org.springframework.security.web.authentication.logout.HttpStatusReturningLogoutSuccessHandler;
 
+import com.datariver.powercontroller.security.JwtAuthenticationFilter;
+import com.datariver.powercontroller.security.JwtAuthenticationProvider;
+
 
 
 /**

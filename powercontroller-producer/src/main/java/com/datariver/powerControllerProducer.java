@@ -1,12 +1,14 @@
 package com.datariver;
 
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
-/**
- * Hello world!
- *
- */
-@SpringApplication
+
+
+
+@EnableDiscoveryClient
+@SpringBootApplication
 public class powerControllerProducer 
 {
     public static void main( String[] args )

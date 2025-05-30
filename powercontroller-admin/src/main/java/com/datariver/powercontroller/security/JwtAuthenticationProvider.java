@@ -8,7 +8,7 @@ import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
-import com.louis.mango.admin.util.PasswordEncoder;
+import com.datariver.powercontroller.util.PasswordEncoder;
 
 /**
  * 身份验证提供者

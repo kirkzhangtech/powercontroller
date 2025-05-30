@@ -48,7 +48,11 @@
     <module>../powercontroller-core</module>
     <module>../powercontroller-backup</module>
     <module>../powercontroller-monitor</module>
-
+    <module>../powercontroller-producer</module>
+    <module>../powercontroller-hystrix</module>
+    <module>../powercontroller-consumer</module>
+    <module>../powercontroller-consul</module>
+    <module>../powercontroller-config</module>
 
 
   </modules>

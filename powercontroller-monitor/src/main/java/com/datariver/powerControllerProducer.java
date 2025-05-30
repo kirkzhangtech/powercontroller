@@ -4,10 +4,14 @@ package com.datariver;
  * Hello world!
  *
  */
+
+@EnableAdminServer
+@EnableDiscoveryClient
+@SpringBootApplication
 public class powerControllerProducer 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        SpringApplication.run(powerControllerProducer.class , args);
     }
 }
