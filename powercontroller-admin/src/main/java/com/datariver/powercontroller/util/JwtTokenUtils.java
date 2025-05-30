@@ -9,6 +9,10 @@ import java.util.Map;
 import javax.servlet.http.HttpServletRequest;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
+
+import com.datariver.powercontroller.security.GrantedAuthorityImpl;
+import com.datariver.powercontroller.security.JwtAuthenticatioToken;
+
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

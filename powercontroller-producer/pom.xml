@@ -10,7 +10,7 @@
   <groupId>com.datariver</groupId>
   <artifactId>powercontroller-producer</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>powercontroller-producer</name>
   <url>http://maven.apache.org</url>
   <properties>

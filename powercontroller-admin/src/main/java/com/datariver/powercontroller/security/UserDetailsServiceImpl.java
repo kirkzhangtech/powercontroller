@@ -12,6 +12,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
+import com.datariver.powercontroller.model.SysUser;
 import com.datariver.powercontroller.service.SysUserService;
 
 
