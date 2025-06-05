@@ -13,6 +13,7 @@ import * as loginlog from './modules/loginlog'
 
 
 // 默认全部导出
+//导出才可以进行import
 export default {
     login,
     user,
