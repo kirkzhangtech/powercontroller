@@ -5,6 +5,7 @@ import getters from './getters'
 Vue.use(Vuex)
 
 // https://webpack.js.org/guides/dependency-management/#requirecontext
+// 动态加载模块
 const modulesFiles = require.context('./modules', true, /\.js$/)
 
 // you do not need `import app from './modules/app'`
