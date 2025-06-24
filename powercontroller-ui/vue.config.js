@@ -122,3 +122,11 @@ module.exports = {
       )
   }
 }
+
+module.exports = {
+  devServer: {
+  },
+  configureWebpack: {
+    devtool: 'source-map'
+  }
+}
